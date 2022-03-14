@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          AWS Amplify Test~
+          Develop 배포~
         </a>
       </header>
     </div>

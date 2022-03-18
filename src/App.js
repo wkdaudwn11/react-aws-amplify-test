@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Develop 배포~
+          미리보기 테스트~
         </a>
       </header>
     </div>

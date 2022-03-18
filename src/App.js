@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          알림 테스트~
+          자동 빌드 비활성화 테스트~
         </a>
       </header>
     </div>
